@@ -1,0 +1,23 @@
+.web-name{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+.web-name:hover{
+    color: coral;
+}
+.search_box{
+    width: 400px;
+}
+a{
+    text-decoration: none;
+}
+.show_more_btn{
+    width: 150px;
+}
+.image{
+    height: 300px;
+}
+.search-form{
+    margin-top: 50px;
+    justify-content: center;
+}
